@@ -4,7 +4,7 @@
 
 ![preview](./.github/post.png)
 
-[🔗 Clique aqui para acessar exemplo](https://eliabesilva317.github.io/experiencia/)
+[🔗 Clique aqui para acessar exemplo](https://eliabesilva317.github.io/portfolio/)
 
 ## 🛠️ Tecnologias
 
