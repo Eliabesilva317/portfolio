@@ -2,7 +2,7 @@
 
 > Desenvolvedor - mobile web...
 
-![preview](./.github/preview (2).png)
+![preview](./.github/preview.png)
 
 [🔗 Clique aqui para acessar exemplo](https://eliabesilva317.github.io/portfolio/)
 
